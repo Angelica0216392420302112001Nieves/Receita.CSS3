@@ -8,7 +8,6 @@ Exercicio das aulas de CSS3
     <title>Receita CSS3</title>
     <link rel="stylesheet" href="receita.css">
 </head>
-<body>
     <header>
         <h1>
           <span class="titulo_principal">CHICHA DE ARROZ, BEBIDA TÍPICA VENEZUELANA</span>
@@ -78,6 +77,5 @@ Exercicio das aulas de CSS3
           </span>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/cgfkTbAsmUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </footer>
-      </div>
-</body>
+    </div>
 </html>
