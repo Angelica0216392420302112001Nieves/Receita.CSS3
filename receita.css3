@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(255, 243, 219);
+    font-family: "Rubik", sans-serif;
+    text-align: justify;
+  }
+  
+  .titulo_principal {
+    font-weight: bolder;
+    color: #ffb300;
+  }
+  
+  .imagem_principal {
+    border-radius: 30px;
+    box-shadow: 12px 12px 2px 1px rgb(191, 140, 89);
+  }
+  
+  .primeiro_texto,
+  .texto_4 {
+    margin-top: 5%;
+  }
+  
+  .subtitulo_ingredientes,
+  .subtitulo_acesso,
+  .subtitulo_preparacao,
+  .video_preparacao {
+    color: rgb(153, 100, 32);
+  }
+  
+  .texto_ingredientes,
+  .acesso_rapido {
+    list-style-type: circle;
+  }
+  
+  .imagem_2 {
+    border-radius: 30px;
+    box-shadow: 12px 12px 2px 1px rgb(191, 140, 89)
+  }
+  
+  .ultimo_texto {
+    border-bottom: solid;
+  }
