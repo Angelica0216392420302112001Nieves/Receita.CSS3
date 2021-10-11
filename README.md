@@ -1,7 +1,7 @@
 # Receita.CSS3
 Exercicio das aulas de CSS3
 <html>
-<head>
+ <head>
     <link rel="stylesheet" href="receita.css">
 </head>
 <body>
