@@ -1,6 +1,9 @@
 # Receita.CSS3
 Exercicio das aulas de CSS3
 <htlm>
+  <head>
+    <link rel="stylesheet" href="receita.css3">
+  </head>
   <body>
   <header>
     <h1>
